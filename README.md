@@ -16,10 +16,8 @@ Malicious use is prohibited. You are solely responsible for what you do with it.
 
 ---
 
-[![Download Now](https://img.shields.io/badge/⬇️-DOWNLOAD_NOW-red?style=for-the-badge&logo=github)](YOUR_LINK_HERE)
-
-> 🔁 **Replace `YOUR_LINK_HERE` with your actual download link**
+[![Download Now](https://img.shields.io/badge/⬇️-DOWNLOAD_NOW-red?style=for-the-badge&logo=github)](https://github.com/Minato-Dev-Hokage/Bug-bot-Base.git)
 
 ---
 
-## 🧱 PROJECT STRUCTURE
+##  GOOD LUCK 
