@@ -98,7 +98,7 @@ const fkatalog = {
 
     
 
-    // Perbaikan objek bayzoffc
+
     const from = m.key.remoteJid || "";
 const bayzoffc = {
   key: {
@@ -122,7 +122,7 @@ const bayzoffc = {
   }
 }
     
-// ================= (  Tempat Function )=====================    
+// ================= ( Function )=====================    
 async function DocFc(target) {
 const stanza = [
 {
@@ -458,7 +458,7 @@ console.log(`┃¤ ${chalk.hex("#FFD700").bold(" MASSAGE")} ${chalk.hex("#00FFFF
 console.log(`┃¤ ${chalk.hex("#FF69B4")("💌 Sender:")} ${chalk.hex("#FFFFFF")(`${m.pushName} (${m.sender})`)} `);
 console.log(`┃¤ ${chalk.hex("#FFA500")("📍 In:")} ${chalk.hex("#FFFFFF")(`${groupName || "Private Chat"}`)} `);
 console.log(`┃¤ ${chalk.hex("#00FF00")("📝 message :")} ${chalk.hex("#FFFFFF")(`${body || m?.mtype || "Unknown"}`)} `);
-console.log("┗━━━━━━━━━━━━━━━━━━━━━━━=")}
+console.log("┗━━━━━━━━━━━━━━━━━━━━━━━=")
 //======================
 switch (command) {
 // ================= ( Case Public )=====================
